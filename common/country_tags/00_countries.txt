@@ -114,3 +114,4 @@ MAN = "countries/Manchukou.txt"
 ##################################################
 FRF = "countries/FranceFascist.txt"
 DKR = "countries/Kaiserreich.txt"
+JPM = "countries/Japan.txt"
